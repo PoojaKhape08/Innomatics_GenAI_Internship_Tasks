@@ -1,17 +1,14 @@
-# Logic Building Task 1 – Python
+# Innomatics GenAI Internship Tasks
 
-This repository contains my submission for Internship Logic Building Task 1.
+This repository contains all my daily logic building tasks completed during the Innomatics GenAI Internship (Feb 2026).
 
-Tasks included:
-- User Login Check
-- Pass/Fail Analyzer
-- Data Cleaner
-- Message Length Analyzer
-- Error Message Detector
+Tasks Included:
+- Task 1: Basic logic problems (login check, pass/fail analyzer, data cleaning, etc.)
+- Task 2: Python practice problems (unique words, salary analysis, attendance %, etc.)
+- More tasks will be added regularly.
 
 Tools Used:
 - Python
 - Jupyter Notebook
 
-This task helped me improve basic Python logic building, conditions, loops, and string handling.
-
+This repository shows my daily practice, problem-solving skills, and learning progress.
