@@ -1,14 +1,31 @@
-# Innomatics GenAI Internship Tasks
+# Innomatics GenAI Internship Task
 
-This repository contains all my daily logic building tasks completed during the Innomatics GenAI Internship (Feb 2026).
+This repository contains all my daily internship tasks completed during the Innomatics Advanced Generative AI Internship (Feb 2026).
 
-Tasks Included:
-- Task 1: Basic logic problems (login check, pass/fail analyzer, data cleaning, etc.)
-- Task 2: Python practice problems (unique words, salary analysis, attendance %, etc.)
-- More tasks will be added regularly.
+## Tasks Included
 
-Tools Used:
+### Task 1 – Basic Logic Building
+- User Login Check
+- Pass/Fail Analyzer
+- Data Cleaner
+- Message Length Analyzer
+- Error Message Detector
+
+### Task 2 – Python Practice Problems
+- Unique Words in Sentence
+- Highest Salary Finder
+- Max & Min from List
+- Product Price Counter
+- Attendance Percentage Calculator
+- Remove Duplicate Phone Numbers
+- Character Frequency Counter
+- List to Tuple Conversion
+- Dictionary Key Check
+- Average Marks Calculator
+
+## Tools Used
 - Python
 - Jupyter Notebook
 
-This repository shows my daily practice, problem-solving skills, and learning progress.
+## Purpose
+To improve logic building, problem solving, and Python programming skills through daily practice tasks.
