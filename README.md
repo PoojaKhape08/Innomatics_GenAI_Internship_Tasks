@@ -1,7 +1,7 @@
 # Innomatics GenAI Internship Tasks
 
 This repository contains all my daily internship tasks completed during the **Innomatics Advanced Generative AI Internship (Feb 2026)**.  
-It includes logic building exercises, Python practice problems, and data processing assignments completed using Jupyter Notebook.
+It includes logic building exercises, Python practice problems, data processing, and function-based problem solving using Jupyter Notebook.
 
 ---
 
@@ -34,26 +34,35 @@ It includes logic building exercises, Python practice problems, and data process
 - Sales Spike Detection  
 - Duplicate User ID Detection  
 
+### 🟢 Task 4 – Functions with Loops
+- Mobile Recharge Validation System  
+- Inventory Reorder Alert System  
+- Student Result Processing System  
+- Cab Fare Estimator with Retry Option  
+- Employee Attendance Eligibility Checker  
+- Password Strength Checker  
+
 ---
 
-## 🛠️ Tools & Technologies Used
+## Tools & Technologies Used
 - Python  
 - Jupyter Notebook  
 - GitHub  
 
 ---
 
-## 🎯 Purpose
+## Purpose
 - To improve logic building and problem-solving skills  
 - To strengthen Python programming fundamentals  
-- To practice real-world data processing tasks  
-- To document my learning journey during the GenAI Internship  
+- To practice real-world data processing and validation tasks  
+- To understand functions, loops, and data structures in Python   
 
 ---
 
-## 📈 Learning Outcome
+## Learning Outcome
 Through these tasks, I am gaining hands-on experience in:
-- Python data structures (lists, dictionaries, tuples, strings)  
-- Data processing and analysis  
-- Writing clean and structured code  
-- Building consistent daily coding habits  
+- Python basics and advanced logic building  
+- Functions and loops implementation  
+- Working with lists, dictionaries, strings, and tuples  
+- Data validation and processing techniques  
+- Writing clean, structured, and well-commented code  
