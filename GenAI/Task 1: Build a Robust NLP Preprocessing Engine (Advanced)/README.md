@@ -49,17 +49,17 @@ Your task is to transform this raw text into **clean, structured, and meaningful
 ## 🔄 NLP Pipeline
 
 Raw Text
-⬇️
+->
 Cleaning
-⬇️
+->
 Tokenization
-⬇️
+->
 Stopword Removal
-⬇️
+->
 Lemmatization
-⬇️
+->
 Vectorization
-⬇️
+->
 Model Ready Data
 
 ---
